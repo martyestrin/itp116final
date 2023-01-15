@@ -1,11 +1,3 @@
-# NAME: Marty Estrin
-# ID: 1737382745
-# DATE: 2022-11-29
-# DESCRIPTION: This program supports two primary features. The first is for a user to receive information about a
-# continent, country or capital city (all of which are derived classes). The second feature is for a user to
-# contribute new information about a continent, country or capital city that they can refer to later in the
-# "learn" feature
-
 class Continent:
     # Constructor
     def __init__(self, continent: str, countries: []):

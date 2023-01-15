@@ -1,0 +1,181 @@
+North America,Africa,Asia,Europe,Australia,Antarctica,South America
+3
+United States
+Canada 
+Mexico
+Washington, D.C.
+Ottawa
+Mexico City
+13
+Algeria
+Egypt 
+Ethiopia
+Kenya
+Liberia
+Libya
+Madagascar
+Nigeria
+Rwanda
+Sierra Leone
+Sudan
+Tanzania
+Zimbabwe
+Algiers
+Cairo
+Addis Ababa
+Nairobi
+Monrovia
+Tripoli
+Antananarivo
+Abuja
+Kigali
+Freetown
+Khartoum
+Dodoma
+Harare
+31
+Afghanistan
+Armenia 
+Azerbaijan 
+Bahrain
+Bangladesh
+Cambodia
+China
+India
+Indonesia
+Iran
+Iraq
+Israel 
+Japan
+Jordan
+Kazakhstan 
+Kuwait
+Mongolia
+North Korea 
+Oman
+Pakistan
+Philippines
+Qatar
+Russia 
+Saudi Arabia
+Singapore
+South Korea 
+Sri Lanka
+Syria
+Taiwan 
+Turkey 
+United Arab Emirates
+Kabul
+Yerevan
+Baku
+Manama
+Dhaka
+Phnom Penh
+Beijing
+New Delhi
+Jakarta
+Tehran
+Baghdad
+Jerusalem
+Tokyo
+Amman
+Astana
+Kuwait City
+Ulaanbaatar
+Pyongyang
+Muscat
+Islamabad
+Manila
+Doha
+Moscow
+Riyadh
+Singapore City
+Seoul
+Colombo 
+Damascus
+Taipei City
+Ankara
+Dubai
+25
+Austria
+Belarus
+Belgium
+Bosnia 
+Croatia
+Cyprus 
+Denmark
+Estonia
+Finland
+France
+Germany
+Hungary
+Iceland
+Ireland
+Italy
+Lithuania
+Luxembourg
+Norway
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+United Kingdom
+Vienna
+Minsk
+Brussels
+Sarajevo
+Zagreb
+Nicosia
+Copenhagen
+Tallinn
+Helsinki
+Paris
+Berlin
+Budapest
+Reykjavik
+Dublin
+Rome
+Vilnius
+Luxembourg-City
+Oslo
+Warsaw
+Lisbon
+Bucharest
+Madrid
+Stockholm
+Bern
+London
+1
+Australia
+Canberra
+1
+(No Countries)
+(No Capital)
+12
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+Guyana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela
+Buenos Aires
+La Paz
+Brasilia
+Santiago
+Bogota
+Quito
+Georgetown
+Asuncion
+Lima
+Paramaribo
+Montevideo
+Caracas
+

@@ -7,12 +7,12 @@ class Continent:
         self.sources = []  # List that will contain names of users who contributed information
 
     def addinfo(self) -> None:
-        new_info = input("State your contribution: ")  # Prompt user for information
-        self.addedInfo.append(new_info)  # Add the new contribution to the list
+        new_info = input("State your contribution: ")  
+        self.addedInfo.append(new_info)  
 
     def getsource(self) -> None:
-        name = input("What is your name? ")  # Prompt user for information
-        self.sources.append(name)  # Save the name into the sources list
+        name = input("What is your name? ")  
+        self.sources.append(name)  
         print("Thanks, " + name + " for contributing information about this continent.")
 
 
@@ -95,14 +95,14 @@ def read_file():
 
 def main_menu() -> int:
     # Message for user
-    global user_choice  # Global variable
+    global user_choice  
     print("Choose an option below:")
     print("1. Learn")
     print("2. Contribute")
     print("3. Exit")
 
     try:
-        user_choice = int(input("Enter 1, 2 or 3: "))  # Get input from user
+        user_choice = int(input("Enter 1, 2 or 3: "))  
     except ValueError:
         return 0
 
@@ -110,10 +110,10 @@ def main_menu() -> int:
 
 
 def learn(list_of_continents, continents, countries, capitals, c_gdp) -> None:
-    global user_country  # Global variable
+    global user_country  
     print("Please select a continent from the following list:")
-    print(list_of_continents)  # Show user list of countries
-    user_continent = input("")  # Get user input
+    print(list_of_continents)  
+    user_continent = input("")  
 
     # Check if user enters invalid continent
     while user_continent not in list_of_continents:
@@ -172,24 +172,24 @@ def contribute(continents, countries, capitals) -> None:
     # If user entered a continent
     for i in range(0, len(continents)):
         if continents[i].continentName == user_choice:
-            continents[i].addinfo()  # Calls addInfo function
-            continents[i].getsource()  # Calls getSource function
+            continents[i].addinfo()  
+            continents[i].getsource()  
             print("")
             valid = True
 
     # If user entered a country
     for i in range(0, len(countries)):
         if countries[i].countryName == user_choice:
-            countries[i].addinfo()  # Calls addInfo function
-            countries[i].getsource()  # Calls overloaded getSource function
+            countries[i].addinfo()  
+            countries[i].getsource()  
             print("")
             valid = True
 
     # If user entered a capital city
     for i in range(0, len(capitals)):
         if capitals[i].capCityName == user_choice:
-            capitals[i].addinfo()  # Calls addInfo function
-            capitals[i].getsource()  # Calls getSource function for capital city class
+            capitals[i].addinfo()  
+            capitals[i].getsource()  
             print("")
             valid = True
 

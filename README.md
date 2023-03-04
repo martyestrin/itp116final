@@ -1,4 +1,4 @@
-# itp116final
+Geographic Encyclopedia
 My Final Project for my ITP 116 Class at USC
 
 This program supports two primary features. The first is for a user to receive information about a
